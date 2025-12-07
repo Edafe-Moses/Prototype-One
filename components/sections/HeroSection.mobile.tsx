@@ -38,7 +38,7 @@ export function HeroSectionMobile() {
                 <Image src={'/mic.png'} width={40} height={40} alt='mic'/>
               </div>
               <div className="bg-white rounded-xl p-2 h-16 flex flex-col justify-center">
-                <Image src={'/wave2.png'} width={60} height={30} alt='wave' className='w-full'/>
+                <Image src={'/wave2.png'} width={60} height={30} alt='wave' className='w-[60%]'/>
                 <p className="text-xs text-center font-bold text-gray-900">Real Conversations</p>
               </div>
             </div>
