@@ -12,7 +12,7 @@ export function HeroSectionTablet() {
           </div>
           <div className='flex items-center gap-6'>
             <div className='flex gap-4 text-sm text-[#a1a7a3]'>
-              <a href="/features" className='hover:text-white transition-colors'>Features</a>
+              <a href="/episodes" className='hover:text-white transition-colors'>Features</a>
               <a href="/use-cases" className='hover:text-white transition-colors'>Use Cases</a>
               <a href="/why-us" className='hover:text-white transition-colors'>Why Us</a>
               <a href="/education" className='hover:text-white transition-colors'>Education</a>
@@ -24,8 +24,8 @@ export function HeroSectionTablet() {
         </nav>
 
         <h2 className="text-4xl font-extrabold text-center text-[#ddcbb6] mt-12 px-6">
-          <span className="block">PODCASTS TO LISTEN</span> 
-          <span className="block">RIGHT NOW</span>
+          <span className="block">WELCOME TO THE</span> 
+          <span className="block">WEALTH CIRCLE PODCAST</span>
         </h2>
 
         <div className="max-w-4xl mx-auto px-6 mt-12">
@@ -37,7 +37,7 @@ export function HeroSectionTablet() {
               <div className="grid grid-cols-2 gap-3">
                 <div className="bg-white rounded-xl p-4 flex flex-col justify-end">
                   <Image src={'/wave2.png'} width={100} height={60} alt='wave' className='w-full mb-2'/>
-                  <p className="text-sm text-center font-bold text-gray-900">Best Podcast</p>
+                  <p className="text-sm text-center font-bold text-gray-900">Real Conversations</p>
                 </div>
                 <div className="bg-white rounded-xl p-4 flex items-center justify-center">
                   <Image src={'/mic.png'} width={60} height={60} alt='mic'/>
@@ -50,14 +50,14 @@ export function HeroSectionTablet() {
                 <Image src={'/podcastmain.png'} width={400} height={300} alt='podcast main' className='w-full h-full rounded-2xl object-cover'/>
               </div>
               <button className="bg-[#E87722] text-white w-full py-3 rounded-lg font-medium">
-                Book a Call
+                Listen Now
               </button>
             </div>
           </div>
 
           <div className="mt-6 bg-white rounded-xl p-6">
-            <p className="font-bold text-[#463f3f] text-xl mb-3">Podcasts They Love</p>
-            <p className='text-sm text-[#9c9595] font-bold mb-4'>We're a Podcast agency for companies who want to be seen as a market leader.</p>
+            <p className="font-bold text-[#463f3f] text-xl mb-3">Build True Wealth</p>
+            <p className='text-sm text-[#9c9595] font-bold mb-4'>Powerful stories, practical lessons, and honest discussions that help you think bigger, grow smarter, and build a better life.</p>
             <Image src={'/podcast3.png'} width={400} height={150} alt='podcast3' className='w-full h-32 object-cover rounded-lg'/>
           </div>
         </div>

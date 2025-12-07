@@ -8,7 +8,7 @@ export function OutreachSectionTablet() {
       <div className="max-w-4xl mx-auto px-6">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">
-            Outreach that lands in interviews, not the trash.
+            Join The Wealth Circle Community
           </h2>
         </div>
 
@@ -20,7 +20,7 @@ export function OutreachSectionTablet() {
           <div className="grid grid-cols-2 gap-8 items-start">
             <div>
               <p className="text-xl font-bold text-gray-900 mb-4">
-                Hundreds of hours have sold our outreach, the best they've ever seen.
+                Stay connected.
               </p>
               
               <div className="flex gap-2 mb-6">
@@ -33,11 +33,11 @@ export function OutreachSectionTablet() {
               </div>
 
               <p className="text-gray-400 font-bold text-sm leading-relaxed mb-6">
-                Firstly, excellent outreach email! Best one I've received in a long time. I get a lot of podcast guest requests, and most are terrible.
+                Get new episodes, updates, behind-the-scenes content, and exclusive insights straight to your inbox.
               </p>
               
               <button className="bg-[#E87722] text-white px-8 py-3 rounded-lg font-medium">
-                Read more host praise
+                Subscribe Now
               </button>
             </div>
 

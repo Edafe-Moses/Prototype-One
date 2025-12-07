@@ -7,7 +7,7 @@ export function TargetAudienceSectionTablet() {
       <div className="max-w-4xl mx-auto px-6">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-4">
-            You need to reach the right listeners. We'll make it happen.
+            About The Wealth Circle Podcast
           </h2>
         </div>
 
@@ -15,10 +15,10 @@ export function TargetAudienceSectionTablet() {
           <div className="grid grid-cols-2 gap-8 items-center">
             <div>
               <h3 className="text-2xl font-bold text-gray-900 mb-4">
-                You need to reach customers with a message
+                Educate, Inspire, and Empower
               </h3>
               <p className="text-gray-600 leading-relaxed mb-6">
-                Maybe you need to show people that you're the expert in your space. Or maybe you want to build trust and raise awareness.
+                The Wealth Circle Podcast is a platform created to educate, inspire, and empower people who want to grow financially, mentally, and emotionally. We dive into money habits, business, relationships, self-improvement, and real-life experiences that shape success.
               </p>
             </div>
             <div className="bg-gray-700 rounded-2xl h-64 overflow-hidden">
@@ -32,13 +32,13 @@ export function TargetAudienceSectionTablet() {
             </div>
             <div className="bg-white rounded-2xl p-6">
               <p className="text-xl font-bold text-gray-900 mb-4">
-                That's where we come in.
+                Our mission is simple —
               </p>
               <p className="text-gray-600 text-sm leading-relaxed mb-6">
-                First we'll find out which shows your customers are listening to. Then we'll get you placed as a guest on them and help you impact their hearts and minds.
+                to help you understand wealth beyond money, and guide you towards a balanced, intentional, and successful life. If you're ready to transform your thinking, this is your circle.
               </p>
               <button className="bg-[#E87722] text-white px-8 py-3 rounded-lg font-medium">
-                Book a Call
+                Join the Circle
               </button>
             </div>
           </div>

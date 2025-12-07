@@ -8,7 +8,7 @@ export function OutreachSectionMobile() {
       <div className="px-4">
         <div className="text-center mb-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">
-            Outreach that lands in interviews, not the trash.
+            Join The Wealth Circle Community
           </h2>
         </div>
 
@@ -19,7 +19,7 @@ export function OutreachSectionMobile() {
 
           <div>
             <p className="text-lg font-bold text-gray-900 mb-4">
-              Hundreds of hours have sold our outreach, the best they've ever seen.
+              Stay connected.
             </p>
             
             <div className="flex gap-2 mb-4">
@@ -41,11 +41,11 @@ export function OutreachSectionMobile() {
             </div>
 
             <p className="text-gray-400 font-bold text-xs leading-relaxed mb-4">
-              Firstly, excellent outreach email! Best one I've received in a long time.
+              Get new episodes, updates, behind-the-scenes content, and exclusive insights straight to your inbox.
             </p>
             
             <button className="bg-[#E87722] text-white px-6 py-3 rounded-lg font-medium w-full">
-              Read more host praise
+              Subscribe Now
             </button>
           </div>
         </div>

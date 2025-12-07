@@ -7,7 +7,7 @@ export function TestimonialSectionTablet() {
     <section className="bg-[#F5F1ED] py-16 hidden sm:block lg:hidden">
       <div className="max-w-4xl mx-auto px-6">
         <h2 className="text-3xl font-bold text-gray-900 text-center mb-12">
-          What clients are saying
+          Meet the Host
         </h2>
 
         <div className="bg-white rounded-3xl p-8">
@@ -21,8 +21,8 @@ export function TestimonialSectionTablet() {
             <div className="text-center">
               <div className='flex justify-between items-center mb-6'>
                 <div>
-                  <h3 className="text-2xl font-bold text-gray-900">Lindsay Laychuk</h3>
-                  <p className='text-sm font-bold text-[#8f8e8e]'>Director of Communication</p>
+                  <h3 className="text-2xl font-bold text-gray-900">Israel</h3>
+                  <p className='text-sm font-bold text-[#8f8e8e]'>Host of The Wealth Circle Podcast</p>
                 </div>
                 <div className="flex gap-2">
                   <button className="w-10 h-10 border-2 border-gray-300 rounded-full flex items-center justify-center">
@@ -35,11 +35,11 @@ export function TestimonialSectionTablet() {
               </div>
 
               <p className="text-gray-700 text-xl leading-relaxed mb-8">
-                When I did try to work with our traditional agency, I realized quickly there was a difference. Podcasting is its own unique channel, and we really needed someone who could understand our goals.
+                Hi, I'm Israel, the host of The Wealth Circle Podcast. I created this platform because I genuinely believe wealth is more than money — it's mindset, character, discipline, and the people you grow with. Through conversations, stories, and real-life experiences, my goal is to help you unlock knowledge, become intentional, and create a future you're proud of.
               </p>
 
               <button className="bg-[#E87722] text-white px-8 py-3 rounded-lg font-medium">
-                Read the Case Studies
+                Connect with Israel
               </button>
             </div>
           </div>

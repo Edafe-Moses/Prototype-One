@@ -16,8 +16,8 @@ export function HeroSectionMobile() {
         </nav>
 
         <h2 className="text-2xl font-extrabold text-center text-[#ddcbb6] mt-8 px-4">
-          <span className="block">PODCASTS TO</span> 
-          <span className="block">LISTEN RIGHT NOW</span>
+          <span className="block">WELCOME TO THE</span> 
+          <span className="block">WEALTH CIRCLE PODCAST</span>
         </h2>
 
         <div className="px-4 mt-8 space-y-4">
@@ -26,7 +26,7 @@ export function HeroSectionMobile() {
           </div>
           
           <button className="bg-[#E87722] text-white w-full py-3 rounded-lg font-medium">
-            Book a Call
+            Listen Now
           </button>
 
           <div className="grid grid-cols-2 gap-3">
@@ -39,14 +39,14 @@ export function HeroSectionMobile() {
               </div>
               <div className="bg-white rounded-xl p-2 h-16 flex flex-col justify-center">
                 <Image src={'/wave2.png'} width={60} height={30} alt='wave' className='w-full'/>
-                <p className="text-xs text-center font-bold text-gray-900">Best Podcast</p>
+                <p className="text-xs text-center font-bold text-gray-900">Real Conversations</p>
               </div>
             </div>
           </div>
 
           <div className="bg-white rounded-xl p-4">
-            <p className="font-bold text-[#463f3f] text-lg mb-2">Podcasts They Love</p>
-            <p className='text-xs text-[#9c9595] font-bold mb-3'>We're a Podcast agency for companies who want to be seen as a market leader.</p>
+            <p className="font-bold text-[#463f3f] text-lg mb-2">Build True Wealth</p>
+            <p className='text-xs text-[#9c9595] font-bold mb-3'>Powerful stories, practical lessons, and honest discussions that help you think bigger, grow smarter, and build a better life.</p>
             <Image src={'/podcast3.png'} width={200} height={100} alt='podcast3' className='w-full h-20 object-cover rounded-lg'/>
           </div>
         </div>

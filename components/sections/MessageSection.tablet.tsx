@@ -7,11 +7,9 @@ export function MessageSectionTablet() {
       <div className="max-w-4xl mx-auto px-6">
         <div className="grid grid-cols-1 gap-8">
           <div className="text-center">
-            <h2 className="text-xs font-bold tracking-wider text-[#ef954f] mb-3">TARGETING</h2>
+            <h2 className="text-xs font-bold tracking-wider text-[#ef954f] mb-3">CONNECT</h2>
             <h2 className="text-3xl font-bold text-gray-900 mb-8 leading-tight">
-              Share your message<br />
-              Raise awareness<br />
-              Build trust.
+              Connect With Us
             </h2>
           </div>
 
@@ -19,22 +17,24 @@ export function MessageSectionTablet() {
             <Image src={'/targeting.png'} width={600} height={400} alt='targeting' className='w-full h-full object-cover'/>
           </div>
 
-          <div className="grid grid-cols-2 border-2 rounded-lg border-[#f6e9dc]">
-            <div className="p-6 bg-[#f6e9dc]">
-              <p className="text-lg font-bold text-gray-900 mb-3">For Communications</p>
-              <p className="text-sm text-[#929090]">Impact the perception of your company by actively managing your brand image and engaging with your audience</p>
-            </div>
-            <div className="p-6">
-              <p className="text-lg font-bold text-gray-900 mb-3">For Marketers</p>
-              <p className="text-sm text-[#929090]">Build trust and raise awareness by consistently delivering high-quality authentic content that resonates</p>
-            </div>
-            <div className="p-6">
-              <p className="text-lg font-bold text-gray-900 mb-3">For Startup Founders</p>
-              <p className="text-sm text-[#929090]">For startup founders, navigating the early stages of business development can be challenging</p>
-            </div>
-            <div className="p-6 bg-[#f6e9dc]">
-              <p className="text-lg font-bold text-gray-900 mb-3">For Founders</p>
-              <p className="text-sm text-[#929090]">Educate and impact the people you build your company for by sharing your knowledge, insights</p>
+          <div className="bg-white rounded-lg p-8 border-2 border-[#f6e9dc]">
+            <p className="text-gray-600 leading-relaxed mb-6">
+              Have a question, feedback, or want to collaborate with The Wealth Circle Podcast? We'd love to hear from you.
+            </p>
+            
+            <div className="space-y-4">
+              <div>
+                <p className="text-lg font-bold text-gray-900">Email:</p>
+                <a href="mailto:info@wealthcirclepodcast.com" className="text-[#E87722] hover:underline">info@wealthcirclepodcast.com</a>
+              </div>
+              
+              <div>
+                <p className="text-lg font-bold text-gray-900">Social Media:</p>
+                <div className="flex flex-col gap-1">
+                  <a href="#" className="text-[#E87722] hover:underline">Instagram: @wealthcirclepodcast</a>
+                  <a href="#" className="text-[#E87722] hover:underline">TikTok / X: @wealthcirclepodcast</a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
